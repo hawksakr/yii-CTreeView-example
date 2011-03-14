@@ -6,9 +6,7 @@ A simple example of how to use yii's CTreeView widget.
 
 A working yii framework installation. yii requires a PHP-enabled web-server.
 
-You can clone yii from:
-
-    https://github.com/dmtrs/unofficial-yii-framework-mirror
+You can clone yii from [here](https://github.com/dmtrs/unofficial-yii-framework-mirror).
 
 ## Installation
 
